@@ -14,9 +14,9 @@
 * Bring your store to different screens to use them in every part of your flutter project
 
 ### Views
-![video](https://user-images.githubusercontent.com/63356401/122671801-0cea8c00-d1d1-11eb-918c-cc3ef0f0d69a.mp4)
-![water cup](https://user-images.githubusercontent.com/63356401/122671819-212e8900-d1d1-11eb-9cf9-3ed0e11c1cb7.png | width=100)
-![Statistics](https://user-images.githubusercontent.com/63356401/122671859-41f6de80-d1d1-11eb-959e-4ff615626079.png)
+<img src="https://user-images.githubusercontent.com/63356401/122671801-0cea8c00-d1d1-11eb-918c-cc3ef0f0d69a.mp4" width="300">
+<img src="https://user-images.githubusercontent.com/63356401/122671859-41f6de80-d1d1-11eb-959e-4ff615626079.png" width="300">
+
 
 
 
@@ -37,10 +37,10 @@
 
 ### To-do
 
-    - [ x ] categories-home view
-    - [ x ] products view
-    - [ x ] create basket
-    - [ x ] orders view
+    - [ x ] water_cup_view
+    - [ x ] water_cup store 
+    - [ x ] dependency injection
+    - [ x ] bring store to view & bind store objects to UI
 
 ### Setup
 
@@ -55,7 +55,6 @@
 
 - [Follow on linkedin](https://www.linkedin.com/company/flutterstudentsclub/)
 
-- [Follow on instagram]()
 
 ### Crew
 
@@ -66,7 +65,8 @@
 
 ### Thanks Ticket
 
-- I think in this serie we built amazing app with flutter.
+- Thanks for the invitation for the live event and please contact from social media if you have any further questions.
+- [Ali Riza Reisoglu](https://twitter.com/Codereis1)
 
 
 
