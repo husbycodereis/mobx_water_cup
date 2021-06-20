@@ -14,7 +14,7 @@
 * Bring your store to different screens to use them in every part of your flutter project
 
 ### Views
-<img src="https://user-images.githubusercontent.com/63356401/122671801-0cea8c00-d1d1-11eb-918c-cc3ef0f0d69a.mp4" width="300">
+<img src="https://media.giphy.com/media/8qxoNEpxYW4kKJ1AyM/giphy.gif" width="300">
 <img src="https://user-images.githubusercontent.com/63356401/122671859-41f6de80-d1d1-11eb-959e-4ff615626079.png" width="300">
 
 
