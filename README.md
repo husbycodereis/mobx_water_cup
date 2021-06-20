@@ -15,7 +15,7 @@
 
 ### Views
 ![video](https://user-images.githubusercontent.com/63356401/122671801-0cea8c00-d1d1-11eb-918c-cc3ef0f0d69a.mp4)
-![water cup](https://user-images.githubusercontent.com/63356401/122671819-212e8900-d1d1-11eb-9cf9-3ed0e11c1cb7.png =250x250)
+![water cup](https://user-images.githubusercontent.com/63356401/122671819-212e8900-d1d1-11eb-9cf9-3ed0e11c1cb7.png | width=100)
 ![Statistics](https://user-images.githubusercontent.com/63356401/122671859-41f6de80-d1d1-11eb-959e-4ff615626079.png)
 
 
