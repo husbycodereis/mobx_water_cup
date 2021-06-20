@@ -8,7 +8,7 @@
 
 * Install MobX packages and create a store with build_runner
 * Dependency Injection with Provider package
-* Understand observables, actions, reactions, computed 
+* Understand observables, actions, reactions and computed 
 * Create a simple water cup UI and control it's state with the core concepts.
 * Understand what is an Observer and how to use it
 * Bring your store to different screens to use them in every part of your flutter project
@@ -65,7 +65,7 @@
 
 ### Thanks Ticket
 
-- Thanks for the invitation for the live event and please contact from social media if you have any further questions.
+- Thanks for the invitation for the live event and please contact me from social media if you have any further questions.
 - [Ali Riza Reisoglu](https://twitter.com/Codereis1)
 
 
